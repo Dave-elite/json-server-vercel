@@ -1,36 +1,18 @@
 {
-  "books": [
+  "transactions": [
     {
-      "id": "7ad2",
-      "name": "IIII",
-      "author": "GGG",
-      "published": "3333-02-02",
-      "coppies": 44,
-      "front_matter": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhIZUJZbNYcy4LFrg9GGkrhSznMcxC-m3Hsg&s"
+      "id": 7,
+      "date": "2019-12-07",
+      "description": "Birthday Check from Grandma",
+      "category": "Gift",
+      "amount": 50
     },
     {
-      "id": "1d1a",
-      "name": "FFF",
-      "author": "FFFF",
-      "published": "2002-09-09",
-      "coppies": 2202,
-      "front_matter": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTswkw0FAlYmeojDh59bEsnjcnzRc3dx5NeFg&s"
-    },
-    {
-      "id": "8b70",
-      "name": "fff",
-      "author": "eee",
-      "published": "2002-01-01",
-      "coppies": "22223",
-      "front_matter": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNXXKKUDyxfTVIhybivFfhGU_MDDv3OVVnRA&s"
-    }
-  ],
-  "issued": [
-    {
-      "id": "6d5e",
-      "personName": "qqqq",
-      "bookName": "fff3",
-      "dateIssued": "2024-07-18"
+      "id": 8,
+      "date": "2019-12-09",
+      "description": "Lyft Ride",
+      "category": "Transportation",
+      "amount": -13.25
     }
   ]
 }
