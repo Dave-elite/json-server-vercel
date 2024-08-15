@@ -734,5 +734,35 @@
         "category": "Transportation",
         "amount": 200
       }
-    ]
+    ],
+  "babies": [
+    {
+      "id": "ad83",
+      "babyPic": "https://www.shutterstock.com/image-photo/sleeping-cute-newborn-infant-wrapped-260nw-77125552.jpg",
+      "name": "Christian Marcus",
+      "birthWeight": "3.8kgs",
+      "healthStatus": "Healthy",
+      "dateOfBirth": "2023-09-09",
+      "timeOfBirth": "15:00"
+    },
+    {
+      "id": "84da",
+      "babyPic": "https://images.unsplash.com/flagged/photo-1553056011-7811272649cb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aW5mYW50fGVufDB8fDB8fHww",
+      "name": "Victoria Pendo ",
+      "birthWeight": "3.6kgs",
+      "healthStatus": "Healthy",
+      "dateOfBirth": "2023-09-09",
+      "timeOfBirth": "09:09"
+    },
+    {
+      "id": "2fcc",
+      "babyPic": "https://images.unsplash.com/flagged/photo-1553056011-7811272649cb?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8aW5mYW50fGVufDB8fDB8fHww",
+      "name": "John Kamau",
+      "birthWeight": "4.5kgs",
+      "healthStatus": "incubator",
+      "dateOfBirth": "2023-09-09",
+      "timeOfBirth": "09:09"
+    }
+  ]
+  
 }
